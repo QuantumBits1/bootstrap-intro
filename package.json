@@ -1,0 +1,25 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumBits1/bootstrap-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuantumBits1/bootstrap-intro/issues"
+  },
+  "homepage": "https://github.com/QuantumBits1/bootstrap-intro#readme"
+}
